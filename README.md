@@ -1,6 +1,6 @@
 # Financial-Interactive-Dashboard
-# What I've Created
-# I've built a complete, interactive financial data visualization platform called "FinViz" with these major components:
+What I've Created
+I've built a complete, interactive financial data visualization platform called "FinViz" with these major components:
 
 # HTML Structure (index-html)
 
